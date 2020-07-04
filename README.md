@@ -1,7 +1,7 @@
 # Machine Learning for Business Applications 2 Individual Project 
 
 
-* Jinwoo Oh*
+**Jinwoo Oh**
 
 **Univariate Time Series Forecasting with Machine Learnings**
 
